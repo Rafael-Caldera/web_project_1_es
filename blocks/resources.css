@@ -1,0 +1,64 @@
+.resources {
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section-title {
+  display: flex;
+  margin-bottom: 20px;
+  width: 60%;
+  line-height: 1.15%;
+  font-size: 60px;
+  font-weight: bold;
+  justify-content: center;
+  z-index: 2;
+}
+
+.section-subtitle {
+  display: flex;
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  justify-content: center;
+  z-index: 2;
+}
+
+.resources__logo-zone {
+  width: 1100px;
+  flex-direction: row;
+  display: flex;
+  margin-bottom: 217px;
+  margin-top: 80px;
+}
+
+.resources__logo-Teded {
+  width: 275px;
+  height: 38px;
+  background-image: url("../images_sprint-3/logo/resources-tedED.png");
+  background-size: 100%;
+}
+
+.resources__logo-Medium {
+  width: 275px;
+  height: 38px;
+  background-image: url("../images_sprint-3/logo/resources-Medium.png");
+  background-size: 100%;
+}
+
+.resources__logo-dezeen {
+  width: 275px;
+  height: 38px;
+  background-image: url("../images_sprint-3/logo/resources-dezeen.png");
+  background-size: 100%;
+}
+
+.resources__logo-goodreads {
+  width: 275px;
+  height: 38px;
+  background-image: url("../images_sprint-3/logo/resources-goodreads.png");
+  background-size: 100%;
+}
