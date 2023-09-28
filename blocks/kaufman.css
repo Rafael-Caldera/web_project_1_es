@@ -19,7 +19,7 @@
   animation-iteration-count: infinite;
 }
 
-.section-title__theme_dark {
+.section-title--theme_dark {
   display: flex;
   margin-bottom: 20px;
   width: 60%;
@@ -30,7 +30,7 @@
   justify-content: center;
 }
 
-.section-subtitle__theme_dark {
+.section-subtitle--theme_dark {
   display: flex;
   width: 60%;
   line-height: 34px;
