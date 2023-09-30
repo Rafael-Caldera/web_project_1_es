@@ -1,0 +1,4 @@
+.cards__item {
+  width: 240px;
+  justify-content: space-between;
+}

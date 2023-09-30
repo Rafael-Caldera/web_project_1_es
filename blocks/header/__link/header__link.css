@@ -1,0 +1,11 @@
+.header__link {
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: mediumblue;
+  text-decoration: none;
+}
+
+.header__link:hover {
+  opacity: 0.4;
+  transition: opacity 1s ease;
+}

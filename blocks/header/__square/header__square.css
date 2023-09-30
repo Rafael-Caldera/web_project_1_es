@@ -1,0 +1,13 @@
+.header__square {
+  height: 568px;
+  width: 568px;
+  top: 64px;
+  right: 0;
+  background-color: #2f80ed;
+  position: absolute;
+  transform: rotate(-15deg);
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
